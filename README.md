@@ -38,10 +38,10 @@
 <br>
 ## Contect Me
 
-<a href="">
+<a href="https://www.linkedin.com/in/gaurav-s-patidar">
     <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
 
-  <a href="mailto:">
+  <a href="mailto:gauravspatidar@gmail.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
