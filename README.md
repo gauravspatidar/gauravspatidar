@@ -32,25 +32,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravspatidar&show_icons=true&theme=radical)
 <br>
-{
-  user(login: "gauravspatidar") {
-    repositories(isFork: false, first: 100, orderBy: {field: UPDATED_AT, direction: DESC}) {
-      nodes {
-        name
-        updatedAt
-        languages(first: 5, orderBy: {field: SIZE, direction: DESC}) {
-          nodes {
-            name
-          }
-        }
-        primaryLanguage {
-          name
-        }
-      }
-    }
-  }
-}
-<br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gauravspatidar.gauravspatidar)
 <br>
