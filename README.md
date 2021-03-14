@@ -16,6 +16,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </ul>
 <br>
 
+
 ## Employers
 <ul>
   <li>Worked at RBTech Solutions, Indore as an Associate Software Developer from June 2018 to December 2019.</li>
@@ -23,8 +24,8 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
   <li>Worked at Converge Info. Service, Indore as an Associate React native Developer from May 2020 to Jan 2021.</li>
   <li>Working in Avalanche Info. Tech., Indore as an Senior React native Developer from Feb 2021 </li>
 <ul>
-
 <br>
+
 
 ## Technical Skills
 
@@ -177,6 +178,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </table>
 <br>
 
+
 ## GitHub Status
 
 ![Gaurav Patidar's github stats](https://github-readme-stats.vercel.app/api?username=gauravspatidar&show_icons=true&theme=radical)
@@ -185,6 +187,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gauravspatidar.gauravspatidar)
 <br>
+
 
 ## Academic Records
 
@@ -201,6 +204,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </ul>
 <br>
 
+
 ## Seminar and Workshops
 <ul>
   <li>Attended workshop on Virtual Reality, conducted by Google at Wittyfeed.</li>
@@ -210,6 +214,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
   <li>Participated in Xpression held in IIPS, and got First prize.</li>
 </ul>
 <br>
+
 
 ## Contact Me
 
