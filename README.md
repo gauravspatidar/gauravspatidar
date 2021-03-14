@@ -4,7 +4,7 @@ Hello,
 <p><img height="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
 <br>
 <span><strong>Career Objective :</strong></span><br>
-To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.<br>
+To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.<br><br>
 
 <span><strong>Professional Summary :</strong></span>
 <ul>
@@ -18,7 +18,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 
 ## Technical Skills
 <br>
-<span><strong>Operating System :</strong></span><br>
+<span><strong>Operating System :</strong></span><br><br>
 <table>
   <tbody>
     <tr valign="top">
@@ -34,7 +34,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </table>
 
 <br>
-<span><strong>Framework :</strong></span><br>
+<span><strong>Framework :</strong></span><br><br>
 <table>
   <tbody>
     <tr valign="top">
@@ -62,7 +62,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </table>
  
 <br>
-<span><strong>Programming Languages :</strong></span><br>
+<span><strong>Programming Languages :</strong></span><br><br>
 <table>
   <tbody>
     <tr valign="top">
@@ -102,7 +102,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </table>
  
 <br>
-<span><strong>Parsing Techniques :</strong></span><br>
+<span><strong>Parsing Techniques :</strong></span><br><br>
 <table>
   <tbody>
     <tr valign="top">
@@ -114,7 +114,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </table>
 
 <br>
-<span><strong>Databases :</strong></span><br>
+<span><strong>Databases :</strong></span><br><br>
 <table>
   <tbody>
     <tr valign="top">
@@ -134,7 +134,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </table>
 
 <br>
-<span><strong>Tools or Editors :</strong></span><br>
+<span><strong>Tools or Editors :</strong></span><br><br>
 <table>
   <tbody>
     <tr valign="top">
