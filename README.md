@@ -1,6 +1,5 @@
 Hello,
 # I'm Gaurav Patidar👋
-<br>
 
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
@@ -17,8 +16,18 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </ul>
 <br>
 
-## Technical Skills
+## Employers
+<ul>
+  <li>Worked at RBTech Solutions, Indore as an Associate Software Developer from June 2018 to December 2019.</li>
+  <li>Worked at Avalanche Info. Tech., Indore as an Senior React native Developer from January 2020 to May 2020.</li>
+  <li>Worked at Converge Info. Service, Indore as an Associate React native Developer from May 2020 to Jan 2021.</li>
+  <li>Working in Avalanche Info. Tech., Indore as an Senior React native Developer from Feb 2021 </li>
+<ul>
+
 <br>
+
+## Technical Skills
+
 <span><strong>Operating System :</strong></span><br><br>
 <table>
   <tbody>
@@ -175,7 +184,32 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravspatidar&show_icons=true&theme=radical)
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gauravspatidar.gauravspatidar)
+<br>
 
+## Academic Records
+
+<span><strong>Professional Qualification :</strong></span><br><br>
+<ul>
+  <li><strong>BCA (CS)</strong> July 2016 - May 2019 From International Institute of Professional Studies, Indore with aggregate of <strong>9.01</strong> pointers.</li>
+  <li>Pursuing <strong>MCA (CS)</strong> June 2019 From International Institute of Professional Studies, Indore.</li>
+</ul>
+<br>
+<span><strong>Educational Qualification :</strong></span><br><br>
+<ul>
+  <li><strong>12th (CBSE)</strong> from S.S.R.V.M., Indore with <strong>82.4%</strong>.</li>
+  <li><strong>10th (MPBSE)</strong> from S.J.H.S.S., Barwani with <strong>85.5%</strong>.</li>
+</ul>
+<br>
+
+## Seminar and Workshops
+<ul>
+  <li>Attended workshop on Virtual Reality, conducted by Google at Wittyfeed.</li>
+  <li>Attended 1 day seminar for understanding various tools, conducted by Wittyfeed.</li>
+  <li>Attended workshop on stress management, conducted by Art of Living.</li>
+  <li>Attended Technofest held in IET ,DAVV.</li>
+  <li>Participated in Xpression held in IIPS, and got First prize.</li>
+</ul>
+<br>
 
 ## Contact Me
 
