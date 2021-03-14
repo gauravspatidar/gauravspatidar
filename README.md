@@ -14,7 +14,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
   <li>Expert in handling database and API creation.</li>
   <li>Expert in the UI design of various devices and different versions of Android and IOS.</li>
 </ul>
-## Technical Skills
+# Technical Skills
 <br>
 <span><strong>Operating System :</strong></span><br><br>
 <table>
@@ -26,7 +26,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
       <td width="10%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
+        <img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
       </td>
   </tbody>
 </table>
@@ -163,14 +163,15 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
- ## GitHub Status
+<br>
+# GitHub Status
 ![Gaurav Patidar's github stats](https://github-readme-stats.vercel.app/api?username=gauravspatidar&show_icons=true&theme=radical)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravspatidar&show_icons=true&theme=radical)
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gauravspatidar.gauravspatidar)
 <br>
-## Contect Me
+# Contact Me
 
 <a href="https://www.linkedin.com/in/gaurav-s-patidar" target="_blank">
   <img align="left" height="24px" width="24px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linkedin.png?raw=true" />
