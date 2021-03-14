@@ -1,23 +1,26 @@
 Hello,
 # I'm Gaurav Patidar👋
+<br>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
 <br>
 <span><strong>Career Objective :</strong></span><br>
 To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.<br><br>
-	@@ -24,11 +24,11 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>Windows</strong></span><br><br><br>
-        <img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/windows.png?raw=true">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>Linux</strong></span><br><br><br>
-        <img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
-      </td>
-  </tbody>
+<table>
+	<tbody>
+		<tr valign="top">
+		      	<td width="10%" align="center">
+				<span><strong>Windows</strong></span><br><br><br>
+				<img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/windows.png?raw=true">
+		      	</td>
+		      	<td width="10%" align="center">
+				<span><strong>Linux</strong></span><br><br><br>
+				<img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
+		      	</td>
+		</tr>
+  	</tbody>
 </table>
-	@@ -40,23 +40,23 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
+<br>
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>React Native</strong></span><br><br><br>
@@ -41,7 +44,6 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
-	@@ -68,31 +68,31 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
@@ -73,7 +75,6 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
-	@@ -104,7 +104,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>JSON</strong></span><br><br><br>
@@ -81,7 +82,6 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
-	@@ -116,15 +116,15 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>MySQL</strong></span><br><br><br>
@@ -97,7 +97,6 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
-	@@ -136,35 +136,35 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>VS Code</strong></span><br><br><br>
@@ -133,7 +132,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
-	@@ -182,9 +182,9 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
+<br>
 ## Contect Me
 
 <a href="https://www.linkedin.com/in/gaurav-s-patidar" target="_blank">
