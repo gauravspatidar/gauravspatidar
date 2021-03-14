@@ -1,7 +1,10 @@
 Hello,
-<br>
 # I'm Gaurav Patidar👋
+ : +91-7734826695
+ : gauravspatidar@gmail.com
 <br>
+Career Objective :
+To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.
 
 
 
