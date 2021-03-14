@@ -40,7 +40,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>React Native</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/react-native.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/react-native.webp?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>Native Android</strong></span><br><br><br>
@@ -84,7 +84,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
       <td width="10%" align="center">
         <span><strong>PHP</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/php.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/php.svg?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>HTML</strong></span><br><br><br>
