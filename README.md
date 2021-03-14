@@ -1,7 +1,7 @@
 Hello,
 # I'm Gaurav Patidar👋
-<img height="25px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91-7734826695<br>
-<img height="25px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.webp.png?raw=true"> : gauravspatidar@gmail.com<br>
+<img height="20px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91-7734826695<br>
+<img height="20px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com<br>
 <br>
 <span><strong>Career Objective :</strong></span><br>
 To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.
