@@ -1,9 +1,9 @@
 Hello,
 # I'm Gaurav Patidar👋
- : +91-7734826695
- : gauravspatidar@gmail.com
+<img height="64px" src="https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png"> : +91-7734826695<br>
+<img height="64px" src="https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png"> : gauravspatidar@gmail.com<br>
 <br>
-Career Objective :
+<span><strong>Career Objective :</strong></span><br>
 To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.
 
 
