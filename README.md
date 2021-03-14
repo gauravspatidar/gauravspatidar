@@ -1,7 +1,7 @@
 Hello,
 # I'm Gaurav Patidar👋
-<p><img style="max-width: fit-content;width: 15px;height: 15px;" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
-<p><img style="max-width: fit-content;width: 15px;height: 15px;" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
+<p><img style="max-width: 15px;width: 15px;height: 15px;" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
+<p><img style="max-width: 15px;width: 15px;height: 15px;" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
 <br>
 <span><strong>Career Objective :</strong></span><br>
 To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.<br><br>
@@ -24,11 +24,11 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>Windows</strong></span><br><br><br>
-        <img style="max-width: fit-content;width: 64px;height: 64px;" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/windows.png?raw=true">
+        <img style="max-width: 64px;width: 64px;height: 64px;" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/windows.png?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
-        <img style="max-width: fit-content;width: 64px;height: 64px;" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
+        <img style="max-width: 64px;width: 64px;height: 64px;" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
       </td>
   </tbody>
 </table>
