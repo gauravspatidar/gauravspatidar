@@ -23,7 +23,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
   <li>Worked at Avalanche Info. Tech., Indore as an Senior React native Developer from January 2020 to May 2020.</li>
   <li>Worked at Converge Info. Service, Indore as an Associate React native Developer from May 2020 to Jan 2021.</li>
   <li>Working in Avalanche Info. Tech., Indore as an Senior React native Developer from Feb 2021 </li>
-<ul>
+</ul>
 <br>
 
 
