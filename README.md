@@ -1,6 +1,7 @@
 Hello,
 # I'm Gaurav Patidar👋
 <br>
+
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
 <br>
@@ -14,7 +15,9 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
   <li>Expert in handling database and API creation.</li>
   <li>Expert in the UI design of various devices and different versions of Android and IOS.</li>
 </ul>
-# Technical Skills
+<br>
+
+## Technical Skills
 <br>
 <span><strong>Operating System :</strong></span><br><br>
 <table>
@@ -164,14 +167,17 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
   </tbody>
 </table>
 <br>
-# GitHub Status
+
+## GitHub Status
+
 ![Gaurav Patidar's github stats](https://github-readme-stats.vercel.app/api?username=gauravspatidar&show_icons=true&theme=radical)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravspatidar&show_icons=true&theme=radical)
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gauravspatidar.gauravspatidar)
-<br>
-# Contact Me
+
+
+## Contact Me
 
 <a href="https://www.linkedin.com/in/gaurav-s-patidar" target="_blank">
   <img align="left" height="24px" width="24px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linkedin.png?raw=true" />
