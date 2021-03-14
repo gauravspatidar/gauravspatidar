@@ -6,21 +6,34 @@ Hello,
 <br>
 <span><strong>Career Objective :</strong></span><br>
 To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.<br><br>
+<span><strong>Professional Summary :</strong></span>
+<ul>
+  <li>Highly motivated and focused with 2.5+ year experience in Design and Development of Android applications and Native applications.</li>
+  <li>Proficient in object-oriented design, data structures, problem solving, complexity analysis, and debugging.</li>
+  <li>Knowledge in Eclipse IDE, Android Studio, SQL database, UI Designing, Firebase, AWS, Android SDK, Web Services, JSON, Activities and Services.</li>
+  <li>Expert in handling database and API creation.</li>
+  <li>Expert in the UI design of various devices and different versions of Android and IOS.</li>
+</ul>
+## Technical Skills
+<br>
+<span><strong>Operating System :</strong></span><br><br>
 <table>
-	<tbody>
-		<tr valign="top">
-		      	<td width="10%" align="center">
-				<span><strong>Windows</strong></span><br><br><br>
-				<img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/windows.png?raw=true">
-		      	</td>
-		      	<td width="10%" align="center">
-				<span><strong>Linux</strong></span><br><br><br>
-				<img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
-		      	</td>
-		</tr>
-  	</tbody>
+  <tbody>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <span><strong>Windows</strong></span><br><br><br>
+        <img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/windows.png?raw=true">
+      </td>
+      <td width="10%" align="center">
+        <span><strong>Linux</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
+      </td>
+  </tbody>
 </table>
 <br>
+<span><strong>Framework :</strong></span><br><br>
+<table>
+  <tbody>
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>React Native</strong></span><br><br><br>
@@ -44,6 +57,11 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
+ 
+<br>
+<span><strong>Programming Languages :</strong></span><br><br>
+<table>
+  <tbody>
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
@@ -75,6 +93,11 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
+ 
+<br>
+<span><strong>Parsing Techniques :</strong></span><br><br>
+<table>
+  <tbody>
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>JSON</strong></span><br><br><br>
@@ -82,6 +105,10 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
+<br>
+<span><strong>Databases :</strong></span><br><br>
+<table>
+  <tbody>
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>MySQL</strong></span><br><br><br>
@@ -97,6 +124,10 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
+<br>
+<span><strong>Tools or Editors :</strong></span><br><br>
+<table>
+  <tbody>
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>VS Code</strong></span><br><br><br>
@@ -132,6 +163,12 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
   </tbody>
 </table>
+ ## GitHub Status
+![Gaurav Patidar's github stats](https://github-readme-stats.vercel.app/api?username=gauravspatidar&show_icons=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravspatidar&show_icons=true&theme=radical)
+<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gauravspatidar.gauravspatidar)
 <br>
 ## Contect Me
 
