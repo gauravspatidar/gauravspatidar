@@ -44,19 +44,19 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
       <td width="10%" align="center">
         <span><strong>Native Android</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/native-android.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/android.png?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>Firebase</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/firebase.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/firebase.webp?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>Wordpress</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/wordpress.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/wordpress.webp?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>Shopify</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/shopify.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/shopify.webp?raw=true">
       </td>
   </tbody>
 </table>
@@ -71,16 +71,12 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
         <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/javascript.png?raw=true">
       </td>
       <td width="10%" align="center">
-        <span><strong>Android</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/android.png?raw=true">
-      </td>
-      <td width="10%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/java.png?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/c.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/c.webp?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>C++</strong></span><br><br><br>
@@ -96,7 +92,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
       </td>
       <td width="10%" align="center">
         <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/css.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/css.webp?raw=true">
       </td>
   </tbody>
 </table>
@@ -120,11 +116,11 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>MySQL</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/mysql.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/mysql.webp?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>Firebase</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/firebase.png?raw=true">
+        <img height="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/firebase.webp?raw=true">
       </td>
       <td width="10%" align="center">
         <span><strong>AWS</strong></span><br><br><br>
