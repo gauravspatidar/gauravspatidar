@@ -143,6 +143,10 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
+        <span><strong>X-Code</strong></span><br><br><br>
+        <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/x-code.png?raw=true">
+      </td>
+      <td width="10%" align="center">
         <span><strong>VS Code</strong></span><br><br><br>
         <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/vs-code.png?raw=true">
       </td>
