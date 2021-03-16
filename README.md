@@ -1,8 +1,11 @@
 Hello,
 # I'm Gaurav Patidar👋
-
+<p><strong>Full Stack Developer</strong></p>
+<p>Mobile applications and Websites both</p>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
+<p><a href="https://docs.google.com/document/d/1gFjLULdRWRtUoGt6MBzxpWTUJBw_kPlSRYKaWyuIP64/edit?usp=sharing"><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/download.png?raw=true"> : Download Resume</a></p>
+
 <br>
 <span><strong>Career Objective :</strong></span><br>
 To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.<br><br>
