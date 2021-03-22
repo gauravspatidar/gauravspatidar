@@ -11,7 +11,7 @@ Hello,
 To apply my knowledge to achieve organization goals & objectives. Also, to learn new things and apply my potential for the betterment of organization.<br><br>
 <span><strong>Professional Summary :</strong></span>
 <ul>
-  <li>Highly motivated and focused with 2.5+ year experience in Design and Development of Android applications and Native applications.</li>
+  <li>Highly motivated and focused with 2.7+ year experience in Design and Development of Android applications and Native applications.</li>
   <li>Proficient in object-oriented design, data structures, problem solving, complexity analysis, and debugging.</li>
   <li>Knowledge in Eclipse IDE, Android Studio, SQL database, UI Designing, Firebase, AWS, Android SDK, Web Services, JSON, Activities and Services.</li>
   <li>Expert in handling database and API creation.</li>
