@@ -44,6 +44,10 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
         <span><strong>Linux</strong></span><br><br><br>
         <img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/linux.png?raw=true">
       </td>
+      <td width="10%" align="center">
+        <span><strong>macOS</strong></span><br><br><br>
+        <img height="64px" width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/mac.png?raw=true">
+      </td>
   </tbody>
 </table>
 <br>
