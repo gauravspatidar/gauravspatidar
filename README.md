@@ -1,7 +1,7 @@
 Hello,
 # I'm Gaurav Patidar👋
 <p><strong>Full Stack Developer</strong></p>
-<p>Mobile applications and Websites both</p>
+<p>Mobile Applications and Websites both</p>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/phone.png?raw=true"> : +91 77348-26695</p>
 <p><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/email.png?raw=true"> : gauravspatidar@gmail.com</p>
 <p><a href="https://docs.google.com/document/d/1gFjLULdRWRtUoGt6MBzxpWTUJBw_kPlSRYKaWyuIP64/edit?usp=sharing"><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/download.png?raw=true"> : Download Resume</a></p>
@@ -23,9 +23,9 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 ## Employers
 <ul>
   <li>Worked at RBTech Solutions, Indore as an Associate Software Developer from June 2018 to December 2019.</li>
-  <li>Worked at Avalanche Info. Tech., Indore as an Senior React native Developer from January 2020 to May 2020.</li>
+  <li>Worked at Avalanche Info. Tech., Indore as a Senior React native Developer from January 2020 to May 2020.</li>
   <li>Worked at Converge Info. Service, Indore as an Associate React native Developer from May 2020 to Jan 2021.</li>
-  <li>Working in Avalanche Info. Tech., Indore as an Senior React native Developer from Feb 2021 </li>
+  <li>Working in Avalanche Info. Tech., Indore as a Senior Full-Stack Developer from Feb 2021 </li>
 </ul>
 <br>
 
