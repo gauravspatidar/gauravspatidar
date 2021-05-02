@@ -92,6 +92,10 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
         <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/java.png?raw=true">
       </td>
       <td width="10%" align="center">
+        <span><strong>JSP</strong></span><br><br><br>
+        <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/java.png?raw=true">
+      </td>
+      <td width="10%" align="center">
         <span><strong>C</strong></span><br><br><br>
         <img height="64px"  width="64px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/c.webp?raw=true">
       </td>
