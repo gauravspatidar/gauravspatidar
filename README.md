@@ -79,7 +79,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </table>
  
 <br>
-<span><strong>Programming Languages :</strong></span><br><br>
+<span><strong>Programming Language :</strong></span><br><br>
 <table>
   <tbody>
     <tr valign="top">
