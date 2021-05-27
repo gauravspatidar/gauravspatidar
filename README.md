@@ -119,7 +119,7 @@ To apply my knowledge to achieve organization goals & objectives. Also, to learn
 </table>
  
 <br>
-<span><strong>Parsing Techniques :</strong></span><br><br>
+<span><strong>Parsing Technique :</strong></span><br><br>
 <table>
   <tbody>
     <tr valign="top">
